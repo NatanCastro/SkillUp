@@ -6,10 +6,10 @@ SkillUp is a scalable and modular backend system for an online learning platform
 
 ## 📚 Documentation
 
-- 🧱 [Tech Stack](./tech-stack.md)
-- ✅ [Feature Checklist](./project-requirements.md)
-- 🗂️ [Project Structure](./project-structure.md)
-- 📊 [Project Progress](./project-progress.md)
+- 🧱 [Tech Stack](./docs/tech-stack.md)
+- ✅ [Feature Checklist](./docs/project-requirements.md)
+- 🗂️ [Project Structure](./docs/project-structure.md)
+- 📊 [Project Progress](./docs/project-progress.md)
 
 ---
 
