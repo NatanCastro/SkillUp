@@ -1,0 +1,6 @@
+@SkillUp.WebAPI_HostAddress = http://localhost:5082
+
+GET {{SkillUp.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
